@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Laptop2\\Desktop\\xamarin-native-projects\\DragDropRecycler\\DragDrop\\DragDrop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Laptop2\\Desktop\\xamarin-native-projects\\DragDropRecycler\\DragDrop\\DragDrop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laptop2\\Desktop\\xamarin-native-projects\\DragDropRecycler\\DragDrop\\DragDrop.csproj",
+        "projectName": "DragDrop",
+        "projectPath": "C:\\Users\\Laptop2\\Desktop\\xamarin-native-projects\\DragDropRecycler\\DragDrop\\DragDrop.csproj",
+        "packagesPath": "C:\\Users\\Laptop2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laptop2\\Desktop\\xamarin-native-projects\\DragDropRecycler\\DragDrop\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Laptop2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Laptop2\\.nuget\\packages": {},
+          "C:\\Users\\Laptop2\\.nuget\\packages\\syncfusion.htmltopdfconverter.qtwebkit.net.core": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Tokket/_packaging/Tokket.Tokkepedia/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.LiveData": {
+              "target": "Package",
+              "version": "[2.2.0.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
